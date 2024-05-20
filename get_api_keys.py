@@ -66,7 +66,7 @@ if __name__ == '__main__':
                     print(f'- {key}')
         
             if len(invalid_api_keys) > 0:
-                print(f'\nInvalid working API KEYS ({len(invalid_api_keys)}):')
+                print(f'\nInvalid API KEYS ({len(invalid_api_keys)}):')
                 for key, _ in invalid_api_keys:
                     print(f'- {key}')
             print()
