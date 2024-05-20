@@ -1,5 +1,6 @@
-# Extract google API KEYS from apk files
+# Extract and test google API KEYS from apk files
 
+[Apktool](https://apktool.org) should be installed before executing the script.
 
 ### Usage
 
